@@ -1,0 +1,15 @@
+C:\C Sharp\HolaMundo\bin\Debug\net6.0\HolaMundo.exe
+C:\C Sharp\HolaMundo\bin\Debug\net6.0\HolaMundo.deps.json
+C:\C Sharp\HolaMundo\bin\Debug\net6.0\HolaMundo.runtimeconfig.json
+C:\C Sharp\HolaMundo\bin\Debug\net6.0\HolaMundo.dll
+C:\C Sharp\HolaMundo\bin\Debug\net6.0\HolaMundo.pdb
+C:\C Sharp\HolaMundo\obj\Debug\net6.0\HolaMundo.csproj.AssemblyReference.cache
+C:\C Sharp\HolaMundo\obj\Debug\net6.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C Sharp\HolaMundo\obj\Debug\net6.0\HolaMundo.AssemblyInfoInputs.cache
+C:\C Sharp\HolaMundo\obj\Debug\net6.0\HolaMundo.AssemblyInfo.cs
+C:\C Sharp\HolaMundo\obj\Debug\net6.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\C Sharp\HolaMundo\obj\Debug\net6.0\HolaMundo.dll
+C:\C Sharp\HolaMundo\obj\Debug\net6.0\refint\HolaMundo.dll
+C:\C Sharp\HolaMundo\obj\Debug\net6.0\HolaMundo.pdb
+C:\C Sharp\HolaMundo\obj\Debug\net6.0\HolaMundo.genruntimeconfig.cache
+C:\C Sharp\HolaMundo\obj\Debug\net6.0\ref\HolaMundo.dll
